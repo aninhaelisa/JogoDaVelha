@@ -1,2 +1,2 @@
 # JogoDaVelha
-exercício simples para praticzr js
+exercício simples para praticar js
